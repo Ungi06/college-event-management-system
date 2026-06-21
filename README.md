@@ -1,2 +1,2 @@
 # college-event-management-system
-optional but good
+A full stack web application built using Spring Boot and React for managing college events and student registrations.
